@@ -1,0 +1,17 @@
+{
+  "name": "trip-planner",
+  "description": "Build and deploy a Trip planner that uses the navigator geolocation API to determine the location and uses that location to obtain the final result and how to travel to your destination wit an alternative route and recommende route.",
+  "version": "1.0.0",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
