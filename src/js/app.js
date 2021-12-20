@@ -28,7 +28,7 @@ const getGeoLocation = async function (searchPlace) {
   const response = await fetch(targetUrl);
   const data = await response.json();
   return data;
-};
+};  
 const getMyTrip = async function (
   originLong,
   originLat,
