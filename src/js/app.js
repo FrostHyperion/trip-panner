@@ -152,6 +152,6 @@ function TripsToHTML(type, description) {
     <i class="fas fa-${type}" aria-hidden="true"></i>${description}
   </li>
   `
-    
+   
   );
 }
