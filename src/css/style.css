@@ -46,7 +46,7 @@ input {
 input:focus {
   outline: 0;
 }
-
+  
 .name {
   font-weight: bold;
 }
