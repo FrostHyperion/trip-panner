@@ -13,4 +13,5 @@ Build and deploy a Trip planner that uses the navigator geolocation API to deter
 5. open the `index.html` in the browser with live server 
 
 ## Deployed on Netlify
-Link 
+Link :
+https://determined-wing-cf87a4.netlify.app/
